@@ -1,0 +1,15 @@
+{
+  "name": "ts-node-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.0.1",
+  "dependencies": {
+    "@types/node": "^16.7.10",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
